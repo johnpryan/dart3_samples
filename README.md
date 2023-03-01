@@ -14,7 +14,7 @@ flutter upgrade
 Get dependencies:
 
 ```
-pub get
+dart pub get
 ```
 
 Samples are in the `bin/` directory. To run, you must include the experiment
