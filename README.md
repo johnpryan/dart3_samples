@@ -1,6 +1,6 @@
 # Dart 3 samples
 
-A sample project with records, patterns, and sealed class features enabled.
+A sample project with records, patterns, and sealed classes enabled.
 
 ## Usage
 
