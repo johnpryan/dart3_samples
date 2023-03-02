@@ -23,3 +23,13 @@ flags:
 ```
 dart run --enable-experiment=records,patterns bin/records.dart 
 ```
+
+Add to `analysis_options.yaml`:
+
+```
+analyzer:
+  enable-experiment:
+    - records
+    - patterns
+```
+
