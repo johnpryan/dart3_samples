@@ -24,7 +24,10 @@ flags:
 dart run --enable-experiment=records,patterns bin/records.dart 
 ```
 
-Add to `analysis_options.yaml`:
+## Analysis options
+This prjoect contains an `analysis_options.yaml` configured already,
+but if you would like to try records and patterns in your own projects,
+you can add them to the `enable-experiment` section:
 
 ```
 analyzer:
